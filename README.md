@@ -1,1 +1,1 @@
-/**Check the login page:/**  https://ricky6363.github.io/Login_Page/        
+**Check the login page:**  https://ricky6363.github.io/Login_Page/        
